@@ -81,8 +81,11 @@ Simply open index.html in your preferred browser.
 ## 📖 Learnings
 
 -**Responsive layout with Tailwind CSS**
+
 -**DOM structure planning using semantic HTML**
+
 -**Navigation with internal anchor links**
+
 -**Optimizing images and assets for web**
 
 ---
