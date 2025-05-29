@@ -3,7 +3,8 @@
 A sleek, responsive clone of the Tesla homepage showcasing electric vehicles and clean energy products. Built using HTML5 and Tailwind CSS, this project replicates the modern UI design and section-based layout of Tesla’s official site.
 
 ---
-
+# Live Demo
+[click here](https://tesla-landing-page-clone-phi.vercel.app/)
 ## 📌 Features
 
 -**🚘 Smooth-scrolling sections for Tesla models: Model S, 3, X, Y**
